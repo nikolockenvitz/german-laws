@@ -121,6 +121,7 @@ input#search.error {
 
 .container.law .title {
     font-weight: bold;
+    width: calc(100% - 5em + 2.5%);
 }
 
 a {
